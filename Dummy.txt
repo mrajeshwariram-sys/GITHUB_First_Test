@@ -1,1 +1,1 @@
-Added a new file named Dummy.txt, I extended the text.
+Added a new file named Dummy.txt, I extended the text second time.
